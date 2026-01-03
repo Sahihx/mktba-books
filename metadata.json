@@ -1,0 +1,14 @@
+
+  "book1": {
+    "title": "الكافي",
+    "author": "الكليني",
+    "category": "حديث",
+    "language": "ar"
+  },
+  "book2": {
+    "title": "تاريخ الشيعة",
+    "author": "الشيخ علوي",
+    "category": "تاريخ",
+    "language": "ar"
+  }
+}
