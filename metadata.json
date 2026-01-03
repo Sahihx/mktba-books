@@ -1,8 +1,8 @@
-
+{
   "book1": {
-    "title": "الكافي",
-    "author": "الكليني",
-    "category": "حديث",
+    "title": "الفقه الإسلامي",
+    "author": "الشيخ فلان",
+    "category": "فقه",
     "language": "ar"
   },
   "book2": {
